@@ -113,3 +113,4 @@ def imageFactory (source,destination):
 
 imageFactory("Images/Arugula","Results")
 
+# Ödevde geçen Stage E — Cluster-based level calibration and assignment kısmı kaldı, anlam veremediğin kısım varsa sor.
